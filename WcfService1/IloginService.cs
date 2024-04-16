@@ -12,6 +12,6 @@ namespace WcfService1
     public interface IloginService
     {
         [OperationContract]
-        void DoWork();
+        bool boolValidateLogin(String strUser, String strPass);
     }
 }

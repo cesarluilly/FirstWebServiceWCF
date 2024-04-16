@@ -11,8 +11,18 @@ namespace WcfService1
     // NOTE: In order to launch WCF Test Client for testing this service, please select loginService.svc or loginService.svc.cs at the Solution Explorer and start debugging.
     public class loginService : IloginService
     {
-        public void DoWork()
+        public bool boolValidateLogin(string strUser, string strPass)
         {
+            bool boolSuccess = false;
+            if (
+                strUser == "cesar@hotmail.com" &&
+                strPass == "root"
+                )
+            {
+                boolSuccess = true;
+            }
+
+            return boolSuccess;
         }
     }
 }
