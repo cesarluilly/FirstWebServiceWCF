@@ -3,6 +3,20 @@
 Videotutorial
 https://www.youtube.com/watch?v=pAAQ009yado
 
+### Teoria
+
+![1713244902890](image/README/1713244902890.png)
+
+![1713244925670](image/README/1713244925670.png)
+
+![1713244951851](image/README/1713244951851.png)
+
+
+### Tipo de proyecto a Crear
+
+![1713245083592](image/README/1713245083592.png)
+
+
 ### Manera de agregar un servicio
 
 ![1713241486220](image/README/1713241486220.png)
